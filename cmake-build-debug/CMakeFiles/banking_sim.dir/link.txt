@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/banking_sim.dir/main.cpp.o  -o banking_sim.exe -Wl,--out-implib,libbanking_sim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
