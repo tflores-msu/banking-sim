@@ -3,4 +3,4 @@ project(banking_sim)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(banking_sim main.cpp)
+add_executable(banking_sim main.cpp BankEventSimulation.cpp BankEventSimulation.h Event.h ClientInstance.cpp ClientInstance.h Event.cpp)
